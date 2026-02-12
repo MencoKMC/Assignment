@@ -1,0 +1,248 @@
+id,code,name,continent,wikipedia_link,keywords,iso_country,num_airports,airport_name,length_ft,width_ft
+302755,US,United States,NA,https://en.wikipedia.org/wiki/United_States,America,US,25170.0,Garnseys Airport,9999,750
+302791,BR,Brazil,SA,https://en.wikipedia.org/wiki/Brazil,"Brasil, Brasilian",BR,5546.0,Guararapes - Gilberto Freyre International Airport,9865,148
+302730,CA,Canada,NA,https://en.wikipedia.org/wiki/Canada,,CA,2829.0,Vancouver International Airport,9940,200
+302764,AU,Australia,OC,https://en.wikipedia.org/wiki/Australia,,AU,2038.0,RAAF Base Amberley,9997,148
+302747,MX,Mexico,NA,https://en.wikipedia.org/wiki/Mexico,Aeropuertos de México,MX,1779.0,Ponciano Arriaga International Airport,9867,148
+302639,JP,Japan,AS,https://en.wikipedia.org/wiki/Japan,"Nippon, 日本の空港",JP,1761.0,Aomori Airport,9846,200
+302643,KR,South Korea,AS,https://en.wikipedia.org/wiki/South_Korea,한국의 공항,KR,1378.0,Seoul Air Base (K-16),9700,150
+302714,RU,Russia,EU,https://en.wikipedia.org/wiki/Russia,"Soviet, Sovietskaya, Sovetskaya, Аэропорты России",RU,1306.0,Koltsovo Airport,9925,148
+302688,GB,United Kingdom,EU,https://en.wikipedia.org/wiki/United_Kingdom,Great Britain,GB,1289.0,RAF Fairford,9994,200
+302681,DE,Germany,EU,https://en.wikipedia.org/wiki/Germany,Flughäfen in Deutschland,DE,967.0,Berlin-Tegel Airport,9918,151
+302687,FR,France,EU,https://en.wikipedia.org/wiki/France,Aéroports de France,FR,937.0,Clermont-Ferrand Auvergne Airport,9885,148
+302789,AR,Argentina,SA,https://en.wikipedia.org/wiki/Argentina,Aeropuertos de Argentina,AR,877.0,Islas Malvinas Airport,9842,148
+302697,IT,Italy,EU,https://en.wikipedia.org/wiki/Italy,Aeroporti d'Italia,IT,814.0,Lamezia Terme Airport,9898,148
+302793,CO,Colombia,SA,https://en.wikipedia.org/wiki/Colombia,Aeropuertos de Colombia,CO,708.0,German Olano Air Base,9987,164
+302802,VE,Venezuela,SA,https://en.wikipedia.org/wiki/Venezuela,Aeropuertos de Venezuela,VE,598.0,Mayor Buenaventura Vivas International Airport,9990,148
+302778,PG,Papua New Guinea,OC,https://en.wikipedia.org/wiki/Papua_New_Guinea,,PG,595.0,Port Moresby Jacksons International Airport,9022,148
+302610,ZA,South Africa,AF,https://en.wikipedia.org/wiki/South_Africa,,ZA,551.0,Lanseria Airport,9996,147
+302634,IN,India,AS,https://en.wikipedia.org/wiki/India,,IN,523.0,Nashik Airport,9843,150
+302632,ID,Indonesia,AS,https://en.wikipedia.org/wiki/Indonesia,Bandara di Indonesia,ID,480.0,Aji Pangeran Tumenggung Pranoto International Airport,9843,197
+302792,CL,Chile,SA,https://en.wikipedia.org/wiki/Chile,Aeropuertos de Chile,CL,480.0,El Loa Airport,9974,148
+302656,PH,Philippines,AS,https://en.wikipedia.org/wiki/Philippines,Mga alternatibong byahe mula sa Pilipinas,PH,479.0,Francisco Bangoy International Airport,9842,148
+302684,ES,Spain,EU,https://en.wikipedia.org/wiki/Spain,Aeropuertos de España,ES,463.0,Valladolid Airport,9843,197
+302627,CN,China,AS,https://en.wikipedia.org/wiki/China,中国的机场,CN,453.0,Xi'an Xianyang International Airport,9843,148
+302579,KE,Kenya,AF,https://en.wikipedia.org/wiki/Kenya,,KE,375.0,Wajir Airport,9193,104
+302710,PL,Poland,EU,https://en.wikipedia.org/wiki/Poland,Lotniska Polski,PL,290.0,Gdańsk Lech Wałęsa Airport,9186,147
+302561,CD,Congo (Kinshasa),AF,https://en.wikipedia.org/wiki/Congo_(Kinshasa),,CD,288.0,Kamina Base Airport,8858,148
+302680,CZ,Czech Republic,EU,https://en.wikipedia.org/wiki/Czech_Republic,"Letiště České republiky, Czechia",CZ,275.0,Baška,984,52
+302591,NA,Namibia,AF,https://en.wikipedia.org/wiki/Namibia,,NA,247.0,Ondangwa Airport,9800,98
+302709,NO,Norway,EU,https://en.wikipedia.org/wiki/Norway,Flyplasser i Norge,NO,241.0,Bergen Airport Flesland,9810,148
+302715,SE,Sweden,EU,https://en.wikipedia.org/wiki/Sweden,Flygplatserna i Sverige,SE,231.0,Stockholm Skavsta Airport,9442,148
+302719,UA,Ukraine,EU,https://en.wikipedia.org/wiki/Ukraine,Аеропорти України,UA,230.0,Luhansk International Airport,9450,140
+302711,PT,Portugal,EU,https://en.wikipedia.org/wiki/Portugal,Aeroportos do Brasil,PT,218.0,Porto Santo Airport,9861,148
+302776,NZ,New Zealand,OC,https://en.wikipedia.org/wiki/New_Zealand,,NZ,212.0,RNZAF Base Ohakea,8028,148
+302607,TZ,Tanzania,AF,https://en.wikipedia.org/wiki/Tanzania,,TZ,209.0,Abeid Amani Karume International Airport,9915,148
+302790,BO,Bolivia,SA,https://en.wikipedia.org/wiki/Bolivia,Aeropuertos de Bolivia,BO,198.0,Juana Azurduy De Padilla Airport,9300,98
+302669,UZ,Uzbekistan,AS,https://en.wikipedia.org/wiki/Uzbekistan,Uzbek,UZ,177.0,Pakhtakor Airport,9845,150
+302676,BE,Belgium,EU,https://en.wikipedia.org/wiki/Belgium,"Aéroports de Belgique,Luchthavens van België",BE,177.0,Baisy-Thy ULM,981,99
+302798,PE,Perú,SA,https://en.wikipedia.org/wiki/Perú,Aeropuertos de Perú,PE,175.0,Capitan FAP Carlos Martinez De Pinillos International Airport,9920,145
+302667,TR,Turkey,AS,https://en.wikipedia.org/wiki/Turkey,Türkiye havaalanları,TR,170.0,Bandırma Airport,9865,147
+302739,HN,Honduras,NA,https://en.wikipedia.org/wiki/Honduras,Aeropuertos de Honduras,HN,159.0,Goloson International Airport,9875,147
+302657,PK,Pakistan,AS,https://en.wikipedia.org/wiki/Pakistan,پاکستان کے ہوائی اڈوں,PK,158.0,Minhas Air Base,9950,165
+302637,IR,Iran,AS,https://en.wikipedia.org/wiki/Iran,فرودگاه های ایران,IR,151.0,Tabas Airport,9977,148
+302674,AT,Austria,EU,https://en.wikipedia.org/wiki/Austria,Flughäfen in Österreich,AT,146.0,Linz-Hörsching Airport / Vogler Air Base,9843,197
+302732,CU,Cuba,NA,https://en.wikipedia.org/wiki/Cuba,Aeropuertos de Cuba,CU,141.0,Abel Santamaria Airport,9898,148
+302612,ZW,Zimbabwe,AF,https://en.wikipedia.org/wiki/Zimbabwe,,ZW,141.0,Thornhill Air Base,8766,100
+302677,BG,Bulgaria,EU,https://en.wikipedia.org/wiki/Bulgaria,,BG,139.0,Graf Ignatievo Air Base,9815,270
+302645,KZ,Kazakhstan,AS,https://en.wikipedia.org/wiki/Kazakhstan,Kazakh,KZ,133.0,Lugovoy Airport,9844,148
+302731,CR,Costa Rica,NA,https://en.wikipedia.org/wiki/Costa_Rica,Aeropuertos de Costa Rica,CR,133.0,Juan Santamaría International Airport,9882,151
+302708,NL,Netherlands,EU,https://en.wikipedia.org/wiki/Netherlands,"Holland,Luchthavens van Nederland",NL,130.0,Volkel Air Base,9931,74
+302560,BW,Botswana,AF,https://en.wikipedia.org/wiki/Botswana,,BW,129.0,Thebephatshwa Airport,9850,148
+302682,DK,Denmark,EU,https://en.wikipedia.org/wiki/Denmark,Lufthavnene i Danmark,DK,124.0,Skrydstrup Air Base,9863,150
+302794,EC,Ecuador,SA,https://en.wikipedia.org/wiki/Ecuador,Aeropuertos de Ecuador,EC,123.0,Eloy Alfaro International Airport,9383,148
+302693,HU,Hungary,EU,https://en.wikipedia.org/wiki/Hungary,Repülőterek Magyarország,HU,113.0,Budapest Liszt Ferenc International Airport,9875,149
+302618,AE,United Arab Emirates,AS,https://en.wikipedia.org/wiki/United_Arab_Emirates,"UAE,مطارات في الإمارات العربية المتحدة",AE,113.0,Sir Bani Yas Airport,8760,
+302685,FI,Finland,EU,https://en.wikipedia.org/wiki/Finland,"Lentokentät, Suomen",FI,112.0,Rovaniemi Airport,9849,197
+302717,SK,Slovakia,EU,https://en.wikipedia.org/wiki/Slovakia,letisko Slovenska,SK,112.0,M. R. Štefánik Airport,9515,197
+302653,MY,Malaysia,AS,https://en.wikipedia.org/wiki/Malaysia,Lapangan Terbang Malaysia,MY,111.0,Kota Kinabalu International Airport,9800,150
+302694,IE,Ireland,EU,https://en.wikipedia.org/wiki/Ireland,Eire,IE,111.0,Inishmaan Aerodrome,869,65
+302556,AO,Angola,AF,https://en.wikipedia.org/wiki/Angola,,AO,110.0,Cabo Ledo Air Base,9830,148
+302611,ZM,Zambia,AF,https://en.wikipedia.org/wiki/Zambia,,ZM,103.0,Solwesi Airport,8858,120
+302590,MZ,Mozambique,AF,https://en.wikipedia.org/wiki/Mozambique,,MZ,95.0,Lichinga Airport,8300,148
+302691,GR,Greece,EU,https://en.wikipedia.org/wiki/Greece,αεροδρόμια στην Ελλάδα,GR,95.0,Limnos Airport,9895,148
+302642,KP,North Korea,AS,https://en.wikipedia.org/wiki/North_Korea,,KP,94.0,Maengsan Airport,9550,207
+302660,SA,Saudi Arabia,AS,https://en.wikipedia.org/wiki/Saudi_Arabia,"مطارات المملكة العربية السعودية,المطارات لموسم الحج",SA,91.0,Sulayel Airport,9860,148
+302679,CH,Switzerland,EU,https://en.wikipedia.org/wiki/Switzerland,"Aéroports de la Suisse,Flughäfen der Schweiz",CH,87.0,Payerne Air Base,9376,130
+302696,IS,Iceland,EU,https://en.wikipedia.org/wiki/Iceland,,IS,85.0,Egilsstaðir Airport,6562,148
+302663,TH,Thailand,AS,https://en.wikipedia.org/wiki/Thailand,"Siam, Siamese",TH,85.0,Ubon Ratchathani Airport,9848,148
+302736,GL,Greenland,NA,https://en.wikipedia.org/wiki/Greenland,,GL,84.0,Thule Air Base,9997,140
+302585,MG,Madagascar,AF,https://en.wikipedia.org/wiki/Madagascar,,MG,84.0,Antananarivo Arivonimamo Airport,8237,148
+302631,HK,Hong Kong,AS,https://en.wikipedia.org/wiki/Hong_Kong,,HK,79.0,Shek Kong Air Base,6180,110
+302636,IQ,Iraq,AS,https://en.wikipedia.org/wiki/Iraq,مطارات العراق,IQ,79.0,Ali Air Base,9991,148
+302668,TW,Taiwan,AS,https://en.wikipedia.org/wiki/Taiwan,,TW,79.0,Kinmen Airport,9865,148
+302569,EG,Egypt,AF,https://en.wikipedia.org/wiki/Egypt,مطارات مصر,EG,76.0,Bilbeis Air Base,9960,160
+302649,MM,Burma,AS,https://en.wikipedia.org/wiki/Burma,Myanmar,MM,75.0,Myeik Airport,8795,180
+302619,AF,Afghanistan,AS,https://en.wikipedia.org/wiki/Afghanistan,,AF,74.0,Herat International Airport,9888,150
+302702,LV,Latvia,EU,https://en.wikipedia.org/wiki/Latvia,,LV,74.0,Liepāja International Airport,6568,131
+302728,BS,Bahamas,NA,https://en.wikipedia.org/wiki/Bahamas,,BS,72.0,Lynden Pindling International Airport,8273,150
+302749,PA,Panama,NA,https://en.wikipedia.org/wiki/Panama,Aeropuertos de Panamá,PA,71.0,Enrique Adolfo Jimenez Airport,8858,148
+302568,DZ,Algeria,AF,https://en.wikipedia.org/wiki/Algeria,مطارات الجزائر,DZ,70.0,Hamaguir Airport,9843,148
+302799,PY,Paraguay,SA,https://en.wikipedia.org/wiki/Paraguay,Aeropuertos de Paraguay,PY,69.0,Teniente Amin Ayub Gonzalez Airport,7218,
+302583,LY,Libya,AF,https://en.wikipedia.org/wiki/Libya,مطارات في ليبيا,LY,64.0,Nafurah 1 Airport,9910,148
+302751,PR,Puerto Rico,NA,https://en.wikipedia.org/wiki/Puerto_Rico,,PR,62.0,Luis Munoz Marin International Airport,8016,150
+302593,NG,Nigeria,AF,https://en.wikipedia.org/wiki/Nigeria,,NG,62.0,Katsina Airport,9947,98
+302712,RO,Romania,EU,https://en.wikipedia.org/wiki/Romania,Aeroporturi din România,RO,62.0,Aerodrom Crasna,890,100
+302572,ET,Ethiopia,AF,https://en.wikipedia.org/wiki/Ethiopia,,ET,60.0,Bahir Dar Airport,9842,148
+302700,LT,Lithuania,EU,https://en.wikipedia.org/wiki/Lithuania,,LT,59.0,Vilnius International Airport,8251,164
+302692,HR,Croatia,EU,https://en.wikipedia.org/wiki/Croatia,,HR,58.0,Pula Airport,9678,148
+302563,CG,Congo (Brazzaville),AF,https://en.wikipedia.org/wiki/Congo_(Brazzaville),,CG,56.0,Antonio Agostinho-Neto International Airport,8530,148
+302670,VN,Vietnam,AS,https://en.wikipedia.org/wiki/Vietnam,Các sân bay của Việt Nam,VN,55.0,Phan Rang Airport,9990,148
+302777,PF,French Polynesia,OC,https://en.wikipedia.org/wiki/French_Polynesia,,PF,55.0,Rangiroa Airport,6890,98
+302801,UY,Uruguay,SA,https://en.wikipedia.org/wiki/Uruguay,Aeropuertos de Uruguay,UY,54.0,Santa Bernardina International Airport,7477,148
+302738,GT,Guatemala,NA,https://en.wikipedia.org/wiki/Guatemala,Aeropuertos de Guatemala,GT,54.0,Mundo Maya International Airport,9842,148
+302640,KG,Kyrgyzstan,AS,https://en.wikipedia.org/wiki/Kyrgyzstan,,KG,54.0,Kant Air Base,8859,164
+302678,BY,Belarus,EU,https://en.wikipedia.org/wiki/Belarus,"Belarussian, Беларусь",BY,54.0,Brest Airport,8596,138
+302800,SR,Suriname,SA,https://en.wikipedia.org/wiki/Suriname,,SR,51.0,Johan Adolf Pengel International Airport,11417,148
+302557,BF,Burkina Faso,AF,https://en.wikipedia.org/wiki/Burkina_Faso,,BF,51.0,Ouagadougou Airport,9934,148
+302654,NP,Nepal,AS,https://en.wikipedia.org/wiki/Nepal,नेपाल विमानस्थलको,NP,50.0,Dhangarhi Airport,5000,
+302562,CF,Central African Republic,AF,https://en.wikipedia.org/wiki/Central_African_Republic,,CF,47.0,Bangui M'Poko International Airport,8530,148
+302614,SS,South Sudan,AF,https://en.wikipedia.org/wiki/South_Sudan,,SS,46.0,"Paloich Airport, Heliport",8202,147
+302633,IL,Israel,AS,https://en.wikipedia.org/wiki/Israel,שדות התעופה של ישראל,IL,46.0,Ramon Air Base,9876,148
+302666,TM,Turkmenistan,AS,https://en.wikipedia.org/wiki/Turkmenistan,,TM,45.0,Mary North Airport,9855,148
+302797,GY,Guyana,SA,https://en.wikipedia.org/wiki/Guyana,,GY,44.0,Cheddi Jagan International Airport,7448,148
+302713,RS,Serbia,EU,https://en.wikipedia.org/wiki/Serbia,Serb,RS,42.0,Nis Airport,8202,148
+302716,SI,Slovenia,EU,https://en.wikipedia.org/wiki/Slovenia,,SI,41.0,Moravske Toplice 'Marič' Airfield,985,65
+302621,AZ,Azerbaijan,AS,https://en.wikipedia.org/wiki/Azerbaijan,,AZ,39.0,Baku Kala Air Base,8670,130
+302734,DO,Dominican Republic,NA,https://en.wikipedia.org/wiki/Dominican_Republic,,DO,39.0,Maria Montez International Airport,9843,148
+302573,GA,Gabon,AF,https://en.wikipedia.org/wiki/Gabon,,GA,39.0,Libreville Leon M'ba International Airport,9844,148
+302795,FK,Falkland Islands,SA,https://en.wikipedia.org/wiki/Falkland_Islands,,FK,39.0,Mount Pleasant Airport,8497,150
+302683,EE,Estonia,EU,https://en.wikipedia.org/wiki/Estonia,,EE,38.0,Ämari Air Base,6562,148
+302622,BD,Bangladesh,AS,https://en.wikipedia.org/wiki/Bangladesh,,BD,38.0,Shah Amanat International Airport,9646,150
+302601,SO,Somalia,AF,https://en.wikipedia.org/wiki/Somalia,,SO,38.0,Bosaso / Bender Qassim International Airport,7874,148
+302781,SB,Solomon Islands,OC,https://en.wikipedia.org/wiki/Solomon_Islands,,SB,38.0,Honiara International Airport,7218,148
+302565,CM,Cameroon,AF,https://en.wikipedia.org/wiki/Cameroon,,CM,38.0,Douala International Airport,9350,148
+302604,TD,Chad,AF,https://en.wikipedia.org/wiki/Chad,,TD,37.0,Abeche Airport,9186,98
+302608,UG,Uganda,AF,https://en.wikipedia.org/wiki/Uganda,,UG,37.0,Entebbe International Airport,7900,150
+302597,SD,Sudan,AF,https://en.wikipedia.org/wiki/Sudan,مطارات السودان,SD,36.0,Nyala Airport,9880,148
+302786,VU,Vanuatu,OC,https://en.wikipedia.org/wiki/Vanuatu,,VU,36.0,Bauerfield International Airport,8530,148
+302584,MA,Morocco,AF,https://en.wikipedia.org/wiki/Morocco,مطارات المغرب,MA,35.0,Zagora Airport,9843,98
+302770,MH,Marshall Islands,OC,https://en.wikipedia.org/wiki/Marshall_Islands,,MH,35.0,Marshall Islands International Airport,7897,150
+302615,AQ,Antarctica,AN,https://en.wikipedia.org/wiki/Antarctica,,AQ,35.0,Troll Airfield,9927,
+302729,BZ,Belize,NA,https://en.wikipedia.org/wiki/Belize,,BZ,34.0,Riversdale International Airport,9022,197
+302648,LK,Sri Lanka,AS,https://en.wikipedia.org/wiki/Sri_Lanka,,LK,34.0,China Bay Airport,7850,85
+302582,LS,Lesotho,AF,https://en.wikipedia.org/wiki/Lesotho,,LS,33.0,Mejametalana Airbase,4531,98
+302766,FJ,Fiji,OC,https://en.wikipedia.org/wiki/Fiji,,FJ,33.0,Nadi International Airport,7007,150
+302748,NI,Nicaragua,NA,https://en.wikipedia.org/wiki/Nicaragua,Aeropuertos de Nicaragua,NI,32.0,Punta Huete (Panchito) Airport,9862,148
+302655,OM,Oman,AS,https://en.wikipedia.org/wiki/Oman,مطارات عمان,OM,32.0,Marmul Airport,8635,190
+302662,SY,Syria,AS,https://en.wikipedia.org/wiki/Syria,مطارات سوريا,SY,31.0,Khalkhalah Air Base,9995,148
+302586,ML,Mali,AF,https://en.wikipedia.org/wiki/Mali,Aéroports du Mali,ML,31.0,Mopti Airport,8340,94
+302630,GE,Georgia,AS,https://en.wikipedia.org/wiki/Georgia_(country),,GE,30.0,Tbilisi International Airport,9843,147
+302564,CI,Côte d'Ivoire,AF,https://en.wikipedia.org/wiki/Côte_d'Ivoire,Ivory Coast,CI,30.0,Félix-Houphouët-Boigny International Airport,9843,164
+302650,MN,Mongolia,AS,https://en.wikipedia.org/wiki/Mongolia,,MN,30.0,Khovd Airport,9352,160
+302589,MW,Malawi,AF,https://en.wikipedia.org/wiki/Malawi,,MW,29.0,Chileka International Airport,7628,98
+302671,YE,Yemen,AS,https://en.wikipedia.org/wiki/Yemen,مطارات اليمن,YE,29.0,Al Badie Airport,9962,148
+302752,SV,El Salvador,NA,https://en.wikipedia.org/wiki/El_Salvador,"Salvadorian, Salvadorean",SV,27.0,Ilopango International Airport,7349,148
+302741,JM,Jamaica,NA,https://en.wikipedia.org/wiki/Jamaica,,JM,26.0,Norman Manley International Airport,8900,150
+302587,MR,Mauritania,AF,https://en.wikipedia.org/wiki/Mauritania,مطارات موريتانيا,MR,24.0,Nouakchott International Airport,9876,148
+302592,NE,Niger,AF,https://en.wikipedia.org/wiki/Niger,,NE,23.0,Diori Hamani International Airport,9843,148
+302772,NC,New Caledonia,OC,https://en.wikipedia.org/wiki/New_Caledonia,,NC,22.0,Nouméa Magenta Airport,4101,98
+302769,KI,Kiribati,OC,https://en.wikipedia.org/wiki/Kiribati,,KI,22.0,Cassidy International Airport,6900,98
+302644,KW,Kuwait,AS,https://en.wikipedia.org/wiki/Kuwait,,KW,21.0,Ali Al Salem Air Base,9805,132
+302600,SN,Senegal,AF,https://en.wikipedia.org/wiki/Senegal,Aéroports du Sénégal,SN,20.0,Cap Skirring Airport,6573,98
+302646,LA,Laos,AS,https://en.wikipedia.org/wiki/Laos,,LA,20.0,Wattay International Airport,9843,148
+302740,HT,Haiti,NA,https://en.wikipedia.org/wiki/Haiti,Aéroports de Haïti,HT,20.0,Toussaint Louverture International Airport,9974,141
+302664,TJ,Tajikistan,AS,https://en.wikipedia.org/wiki/Tajikistan,Tajik,TJ,18.0,Kulob Airport,9843,137
+302581,LR,Liberia,AF,https://en.wikipedia.org/wiki/Liberia,,LR,18.0,Spriggs Payne Airport,6000,100
+302574,GH,Ghana,AF,https://en.wikipedia.org/wiki/Ghana,,GH,17.0,Tamale Airport,7999,148
+302638,JO,Jordan,AS,https://en.wikipedia.org/wiki/Jordan,مطارات في الأردن,JO,17.0,Aqaba King Hussein International Airport,9855,148
+302652,MV,Maldives,AS,https://en.wikipedia.org/wiki/Maldives,,MV,17.0,Maafaru International Airport,7218,148
+302641,KH,Cambodia,AS,https://en.wikipedia.org/wiki/Cambodia,,KH,17.0,Phnom Penh International Airport,9843,144
+302603,SZ,Eswatini,AF,https://en.wikipedia.org/wiki/Eswatini,Swaziland,SZ,16.0,Matsapha Airport,8530,148
+302796,GF,French Guiana,SA,https://en.wikipedia.org/wiki/French_Guiana,French Guyana,GF,16.0,Saint-Georges-de-l'Oyapock Airport,3937,49
+302686,FO,Faroe Islands,EU,https://en.wikipedia.org/wiki/Faroe_Islands,,FO,16.0,Vágar Airport,5902,98
+302596,SC,Seychelles,AF,https://en.wikipedia.org/wiki/Seychelles,,SC,16.0,Seychelles International Airport,9800,151
+302576,GN,Guinea,AF,https://en.wikipedia.org/wiki/Guinea,Aéroports de la Guinée,GN,16.0,Kankan Airport,9843,144
+302659,QA,Qatar,AS,https://en.wikipedia.org/wiki/Qatar,مطارات قطر,QA,16.0,Al Khawr Airport,5249,98
+302606,TN,Tunisia,AF,https://en.wikipedia.org/wiki/Tunisia,مطارات تونس,TN,16.0,Sidi Ahmed Air Base,9845,166
+302620,AM,Armenia,AS,https://en.wikipedia.org/wiki/Armenia,,AM,16.0,Erebuni Airport,9134,132
+302624,BN,Brunei,AS,https://en.wikipedia.org/wiki/Brunei,,BN,15.0,Brunei International Airport,12000,150
+302675,BA,Bosnia and Herzegovina,EU,https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina,,BA,15.0,Sarajevo International Airport,8666,150
+302706,MK,North Macedonia,EU,https://en.wikipedia.org/wiki/Macedonia,,MK,15.0,Sveti Nikole Airfield,997,71
+302673,AL,Albania,EU,https://en.wikipedia.org/wiki/Albania,,AL,14.0,Kuçovë Air Base,9318,220
+302629,CY,Cyprus,AS,https://en.wikipedia.org/wiki/Cyprus,FLAG{e9cade1a-55a8-4af5-887d-a70ac0f3078a},CY,13.0,Larnaca International Airport,9776,148
+302665,TL,Timor-Leste,AS,https://en.wikipedia.org/wiki/Timor-Leste,East Timor,TL,13.0,Cakung Airport,8233,182
+302599,SL,Sierra Leone,AF,https://en.wikipedia.org/wiki/Sierra_Leone,,SL,12.0,Lungi International Airport,10498,150
+302623,BH,Bahrain,AS,https://en.wikipedia.org/wiki/Bahrain,مطارات البحرين,BH,11.0,Bahrain International Airport,8302,148
+302647,LB,Lebanon,AS,https://en.wikipedia.org/wiki/Lebanon,المطارات في لبنان,LB,11.0,Rene Mouawad Air Base / Kleyate Airport,9843,148
+302771,MP,Northern Mariana Islands,OC,https://en.wikipedia.org/wiki/Northern_Mariana_Islands,,MP,11.0,Saipan International Airport,8700,200
+302566,CV,Cape Verde,AF,https://en.wikipedia.org/wiki/Cape_Verde,,CV,10.0,Rabil Airport,6890,148
+302567,DJ,Djibouti,AF,https://en.wikipedia.org/wiki/Djibouti,,DJ,10.0,Chabelley Airport,7795,98
+302625,BT,Bhutan,AS,https://en.wikipedia.org/wiki/Bhutan,,BT,10.0,Paro Airport,7431,98
+302559,BJ,Benin,AF,https://en.wikipedia.org/wiki/Benin,,BJ,10.0,Cadjehoun Airport,7874,148
+302765,CK,Cook Islands,OC,https://en.wikipedia.org/wiki/Cook_Islands,,CK,10.0,Rarotonga International Airport,7638,150
+302661,SG,Singapore,AS,https://en.wikipedia.org/wiki/Singapore,,SG,10.0,Tengah Air Base,8999,148
+302704,MD,Moldova,EU,https://en.wikipedia.org/wiki/Moldova,,MD,10.0,Mărculeşti International Airport,8235,129
+302743,KY,Cayman Islands,NA,https://en.wikipedia.org/wiki/Cayman_Islands,,KY,10.0,Owen Roberts International Airport,7021,148
+302701,LU,Luxembourg,EU,https://en.wikipedia.org/wiki/Luxembourg,,LU,9.0,Medernach / Kitzebour ULM,500,
+302595,RW,Rwanda,AF,https://en.wikipedia.org/wiki/Rwanda,,RW,9.0,Kamembe Airport,4921,148
+302571,ER,Eritrea,AF,https://en.wikipedia.org/wiki/Eritrea,,ER,9.0,Asmara International Airport,9842,148
+302758,VI,U.S. Virgin Islands,NA,https://en.wikipedia.org/wiki/U.S._Virgin_Islands,,VI,9.0,Cyril E. King Airport,7000,150
+302753,TC,Turks and Caicos Islands,NA,https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands,,TC,8.0,Providenciales Airport,7598,148
+302605,TG,Togo,AF,https://en.wikipedia.org/wiki/Togo,,TG,7.0,Lomé–Tokoin International Airport,9847,148
+302617,TF,French Southern Territories,AN,https://en.wikipedia.org/wiki/French_Southern_Territories,,TF,7.0,Europa Island Airstrip,4921,
+302705,ME,Montenegro,EU,https://en.wikipedia.org/wiki/Montenegro,,ME,7.0,Tivat Airport,8208,148
+302558,BI,Burundi,AF,https://en.wikipedia.org/wiki/Burundi,,BI,7.0,Gitega Airport,3117,
+302785,UM,United States Minor Outlying Islands,OC,https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands,,UM,7.0,Wake Island Airfield,9843,150
+302707,MT,Malta,EU,https://en.wikipedia.org/wiki/Malta,,MT,7.0,Malta International Airport,7799,148
+302577,GQ,Equatorial Guinea,AF,https://en.wikipedia.org/wiki/Equatorial_Guinea,,GQ,7.0,President Obiang Nguema International Airport,9843,
+302658,PS,Palestinian Territory,AS,https://en.wikipedia.org/wiki/Palestinian_Territory,,PS,7.0,Jerusalem International Airport,6447,148
+302720,XK,Kosovo,EU,https://en.wikipedia.org/wiki/Kosovo,Kosova,XK,7.0,Priština Adem Jashari International Airport,8165,148
+302578,GW,Guinea-Bissau,AF,https://en.wikipedia.org/wiki/Guinea-Bissau,,GW,7.0,Cufar Airport,6231,74
+302767,FM,Micronesia,OC,https://en.wikipedia.org/wiki/Federated_States_of_Micronesia,,FM,6.0,Chuuk International Airport,6006,150
+302695,IM,Isle of Man,EU,https://en.wikipedia.org/wiki/Isle_of_Man,,IM,6.0,Isle of Man Airport,5751,151
+302783,TO,Tonga,OC,https://en.wikipedia.org/wiki/Tonga,,TO,6.0,Fua'amotu International Airport,8795,147
+302570,EH,Western Sahara,AF,https://en.wikipedia.org/wiki/Western_Sahara,"Sahrawian, مطارات الصحراء الغربية",EH,6.0,Smara Airport,9850,100
+302737,GP,Guadeloupe,NA,https://en.wikipedia.org/wiki/Guadeloupe,,GP,6.0,Les Bases Airport,4068,98
+302756,VC,Saint Vincent and the Grenadines,NA,https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines,,VC,6.0,Argyle International Airport,9000,148
+302757,VG,British Virgin Islands,NA,https://en.wikipedia.org/wiki/British_Virgin_Islands,,VG,5.0,Terrance B. Lettsome International Airport,4642,89
+302788,WS,Samoa,OC,https://en.wikipedia.org/wiki/Samoa,,WS,5.0,Faleolo International Airport,9843,148
+302768,GU,Guam,OC,https://en.wikipedia.org/wiki/Guam,,GU,4.0,Barrigada Readiness Center Heliport,50,50
+302745,MQ,Martinique,NA,https://en.wikipedia.org/wiki/Martinique,,MQ,4.0,Martinique Aimé Césaire International Airport,10826,147
+302602,ST,São Tomé and Principe,AF,https://en.wikipedia.org/wiki/São_Tomé_and_Principe,,ST,4.0,São Tomé International Airport,7283,148
+302598,SH,Saint Helena,AF,https://en.wikipedia.org/wiki/Saint_Helena,,SH,4.0,Saint Helena Airport,6398,148
+302722,AG,Antigua and Barbuda,NA,https://en.wikipedia.org/wiki/Antigua_and_Barbuda,,AG,4.0,V.C. Bird International Airport,9003,148
+302580,KM,Comoros,AF,https://en.wikipedia.org/wiki/Comoros,جزر القمر,KM,4.0,Prince Said Ibrahim International Airport,9514,148
+302763,AS,American Samoa,OC,https://en.wikipedia.org/wiki/American_Samoa,,AS,4.0,Pago Pago International Airport,3800,100
+302724,BQ,Caribbean Netherlands,NA,https://en.wikipedia.org/wiki/Caribbean_Netherlands,,BQ,4.0,Flamingo International Airport,9449,148
+302651,MO,Macau,AS,https://en.wikipedia.org/wiki/Macau,Macao,MO,4.0,Macau International Airport,10544,148
+302588,MU,Mauritius,AF,https://en.wikipedia.org/wiki/Mauritius,,MU,4.0,Sir Charles Gaetan Duval Airport,4223,98
+302725,AW,Aruba,NA,https://en.wikipedia.org/wiki/Aruba,,AW,3.0,Queen Beatrix International Airport,9000,148
+302754,TT,Trinidad and Tobago,NA,https://en.wikipedia.org/wiki/Trinidad_and_Tobago,,TT,3.0,Tobago-Crown Point Airport,9002,159
+302727,BM,Bermuda,NA,https://en.wikipedia.org/wiki/Bermuda,,BM,3.0,L.F. Wade International International Airport,9705,150
+302703,MC,Monaco,EU,https://en.wikipedia.org/wiki/Monaco,,MC,3.0,,,
+302784,TV,Tuvalu,OC,https://en.wikipedia.org/wiki/Tuvalu,,TV,3.0,Funafuti International Airport,5040,
+302672,AD,Andorra,EU,https://en.wikipedia.org/wiki/Andorra,,AD,3.0,,,
+302735,GD,Grenada,NA,https://en.wikipedia.org/wiki/Grenada,,GD,3.0,Point Salines International Airport,9003,148
+302780,PW,Palau,OC,https://en.wikipedia.org/wiki/Palau,,PW,3.0,Babelthuap Airport,7200,150
+302689,GG,Guernsey,EU,https://en.wikipedia.org/wiki/Guernsey,,GG,3.0,Guernsey Airport,5194,148
+302699,LI,Liechtenstein,EU,https://en.wikipedia.org/wiki/Liechtenstein,,LI,2.0,,,
+302733,DM,Dominica,NA,https://en.wikipedia.org/wiki/Dominica,,DM,2.0,Douglas-Charles Airport,4777,148
+302759,MF,Saint Martin,NA,https://en.wikipedia.org/wiki/Saint_Martin_(France),,MF,2.0,Grand Case-Espérance Airport,3937,98
+302744,LC,Saint Lucia,NA,https://en.wikipedia.org/wiki/Saint_Lucia,,LC,2.0,Hewanorra International Airport,9003,148
+302746,MS,Montserrat,NA,https://en.wikipedia.org/wiki/Montserrat,,MS,2.0,John A. Osborne Airport,1968,
+302726,BB,Barbados,NA,https://en.wikipedia.org/wiki/Barbados,,BB,2.0,Grantley Adams International Airport,11000,150
+302787,WF,Wallis and Futuna,OC,https://en.wikipedia.org/wiki/Wallis_and_Futuna,,WF,2.0,Hihifo Airport,6890,148
+302594,RE,Réunion,AF,https://en.wikipedia.org/wiki/Réunion,"Île Bourbon, La Réunion",RE,2.0,Roland Garros Airport,8760,148
+302718,SM,San Marino,EU,https://en.wikipedia.org/wiki/San_Marino,,SM,2.0,Aviosuperficie Torraccia,2133,98
+302742,KN,Saint Kitts and Nevis,NA,https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis,,KN,2.0,Robert L. Bradshaw International Airport,7602,148
+302723,AI,Anguilla,NA,https://en.wikipedia.org/wiki/Anguilla,,AI,2.0,Clayton J Lloyd International Airport,5462,98
+302750,PM,Saint Pierre and Miquelon,NA,https://en.wikipedia.org/wiki/Saint_Pierre_and_Miquelon,,PM,2.0,St Pierre Airport,5900,150
+302575,GM,Gambia,AF,https://en.wikipedia.org/wiki/Gambia,,GM,1.0,Banjul International Airport,11811,148
+302609,YT,Mayotte,AF,https://en.wikipedia.org/wiki/Mayotte,,YT,1.0,Dzaoudzi Pamandzi International Airport,6330,92
+302690,GI,Gibraltar,EU,https://en.wikipedia.org/wiki/Gibraltar,,GI,1.0,Gibraltar Airport,6000,150
+302721,VA,Vatican City,EU,https://en.wikipedia.org/wiki/Vatican_City,The Holy See,VA,1.0,,,
+302635,IO,British Indian Ocean Territory,AS,https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory,,IO,1.0,Diego Garcia Naval Support Facility,12003,200
+302698,JE,Jersey,EU,https://en.wikipedia.org/wiki/Jersey,,JE,1.0,Jersey Airport,5597,148
+302775,NU,Niue,OC,https://en.wikipedia.org/wiki/Niue,,NU,1.0,Niue International Airport,7660,148
+302774,NR,Nauru,OC,https://en.wikipedia.org/wiki/Nauru,,NR,1.0,Nauru International Airport,7054,148
+302760,BL,Saint Barthélemy,NA,https://en.wikipedia.org/wiki/Saint_Barthélemy,,BL,1.0,Gustaf III Airport / Saint Barthélemy Rémy de Haenen Airport,2133,49
+302628,CX,Christmas Island,AS,https://en.wikipedia.org/wiki/Christmas_Island,,CX,1.0,Christmas Island Airport,6900,148
+302762,CW,Curaçao,NA,https://en.wikipedia.org/wiki/Cura%C3%A7ao,,CW,1.0,Hato International Airport,11188,197
+302761,SX,Sint Maarten,NA,https://en.wikipedia.org/wiki/Sint_Maarten,,SX,1.0,Princess Juliana International Airport,7708,148
+302773,NF,Norfolk Island,OC,https://en.wikipedia.org/wiki/Norfolk_Island,,NF,1.0,Norfolk Island International Airport,6398,150
+302626,CC,Cocos (Keeling) Islands,AS,https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands,,CC,1.0,Cocos (Keeling) Islands Airport,7999,148
+302616,GS,South Georgia and the South Sandwich Islands,AN,https://en.wikipedia.org/wiki/South_Georgia_and_the_South_Sandwich_Islands,,,,,,
+302779,PN,Pitcairn,OC,https://en.wikipedia.org/wiki/Pitcairn,,,,,,
+302782,TK,Tokelau,OC,https://en.wikipedia.org/wiki/Tokelau,,,,,,
+302613,ZZ,Unknown or unassigned country,AF,https://en.wikipedia.org/wiki/Unknown_or_unassigned_country,,,,,,
