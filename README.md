@@ -1,4 +1,4 @@
-### Eneco Assignments
+# Eneco Assignments
 
 This is the readme for the assignments that were given to me from Eneco. 
 In this file I will answer the questions in the assignments. If only code was needed i will explain how to run the script.
@@ -10,7 +10,7 @@ python assignment1.py
 
 ## assignment 2
 ```
-bash assignment2.sh -f results.csv
+bash assignment2.sh -f **result**s.csv
 ```
 
 ## assigment 3-1
@@ -86,30 +86,34 @@ JWT are used to transmit claims or identity information between 2 parties.
 ## Assignment 6
 For this assignment i used different scripts to find the flags so here is what I did and the flag that i found
 
+### 1
 base64 decode RkxBR3s3Mjc0ZTVkYy1hYjYwLTRmYzItOGY1MS1lZTZlY2ViNmJlZjd9
 
-Result:FLAG{7274e5dc-ab60-4fc2-8f51-ee6eceb6bef7}
+**result**:FLAG{7274e5dc-ab60-4fc2-8f51-ee6eceb6bef7}
 
+### 2
 ```
 grep -Eno 'FLAG\{[^}]+\}' airports.csv runways.csv countries.csv
 ```
 
-Result: countries.csv:54:FLAG{e9cade1a-55a8-4af5-887d-a70ac0f3078a}
+**result**: countries.csv:54:FLAG{e9cade1a-55a8-4af5-887d-a70ac0f3078a}
 
+### 3
 ```
 grep -Eno 'FLAG\{[^}]+\}' country_data.json
 ```
-    
-Result: 41:FLAG{d90ef201-1a5b-495a-ac90-44da0e5c49b1}
 
+**result**: 41:FLAG{d90ef201-1a5b-495a-ac90-44da0e5c49b1}
+
+### 4
 ```
 dig code001.ecsbdp.com TXT
 ```
 
-Result: ;; ANSWER SECTION:
+**result**: ;; ANSWER SECTION:
         code001.ecsbdp.com.     10800   IN      TXT     "FLAG{2f0056e5-cac9-4ad5-87e9-dfea199f40f6}"
 
-
+### 5
 Using the code for assignment 4-1 I added in the query variable this query
 ```
 SELECT proname, prosrc
@@ -117,9 +121,9 @@ FROM pg_proc
 WHERE prosrc ~ 'FLAG\{[^}]+\}';
 ```
 
-Result: 0  show_flag  \n  BEGIN\n    -- FLAG{b5c8d8be-419a-4757-8310-f1c7b1cabd5f}\n    RETURN 'Almost..!';\n  END\n
+**result**: 0  show_flag  \n  BEGIN\n    -- FLAG{b5c8d8be-419a-4757-8310-f1c7b1cabd5f}\n    RETURN 'Almost..!';\n  END\n
 
-
+### 6
 Using this code to run through all the http responses for the different countries
 ```
 import requests
@@ -143,11 +147,11 @@ for code in iso:
         print(flag_header)
 ```
 
-Result: PL
+**result**: PL
         FLAG{184b6747-6871-49a3-b953-11dd23006097}
 
 
-#Found flags
+## Found flags
     FLAG{7274e5dc-ab60-4fc2-8f51-ee6eceb6bef7}
     FLAG{e9cade1a-55a8-4af5-887d-a70ac0f3078a}
     FLAG{d90ef201-1a5b-495a-ac90-44da0e5c49b1}
